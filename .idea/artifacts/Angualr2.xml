@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Angualr2">
+    <output-path>$PROJECT_DIR$/Anguar2SpringMvc/out</output-path>
+    <root id="root" />
+  </artifact>
+</component>
