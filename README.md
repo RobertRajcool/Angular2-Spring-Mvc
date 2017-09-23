@@ -9,7 +9,7 @@ Dependencies:
 
 Steps to install Frontend:
 
-	1.just check that repo https://github.com/Lawrancecool/Angular2-Spring-Mvc.git
+	1.just checkout the repo https://github.com/Lawrancecool/Angular2-Spring-Mvc.git
 	
 	2.move to Frontend folder and make this comment "npm install"
 	
