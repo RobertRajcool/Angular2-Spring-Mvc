@@ -1,6 +1,9 @@
 # Angular2-Spring-Mvc
+
 Dependencies:
+
 	node v4.x.x or higher and npm 3.x.x or higher
+	
 	jdk7 and tomcat7
 	
 
